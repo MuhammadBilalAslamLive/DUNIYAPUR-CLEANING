@@ -1,0 +1,30 @@
+.badges {
+    padding: 60px 0;
+    background: #70b5cb;
+    .tick {
+        img {
+            width: 30px;
+            height: 30px;
+        }
+        span {
+            color: #fff;
+        }
+        .text1 {
+            font-size: 18px;
+            font-weight: 600;
+            margin: 0 10px;
+        }
+    }
+    .bages-img {
+        margin-top: 60px;
+        img {
+            object-fit: contain;
+            margin: 0 4px;
+            @media (max-width: 575px){
+                width: 150px;
+                margin: 5px auto 5px auto;
+
+            }
+        }
+    }
+}

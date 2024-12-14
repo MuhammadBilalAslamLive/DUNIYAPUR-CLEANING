@@ -1,0 +1,27 @@
+.help {
+    background-color: #eee;
+    padding: 50px 0;
+    .helpBox {
+        h3 {
+            color: #7a7a7a;
+            font-weight: 600;
+        }
+        p {
+            color: #7a7a7a;
+            margin-top: 10px;
+        }
+    }
+    .cover {
+        h3 {
+            color: #7a7a7a;
+            font-weight: 600;
+        }
+        p {
+            color: #f46c8b;
+            margin-top: 10px;
+            font-size: 14px;
+            font-weight: 500;
+            line-height: 30px;
+        }
+    }
+}
